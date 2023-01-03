@@ -1,0 +1,184 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ProfMOD.github.io/ProfMODTest/annotations/susan-howe-thorow-part-i-canvas-1-place-name.json",
+  "type": "AnnotationPage",
+  "label": "Place Name",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Swegatchy",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Fort",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "30"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adirondack Peaks",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Europe",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Stanwicks",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "105"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Five Nations",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "129"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lake Superior",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "susan-howe-thorow-part-i-canvas-1-place-name-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The German Flats",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "263"
+        }
+      }
+    }
+  ]
+}

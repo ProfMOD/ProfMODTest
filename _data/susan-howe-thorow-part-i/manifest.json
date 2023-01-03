@@ -8,6 +8,16 @@
         "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
         "type": "Canvas",
         "duration": 197.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ProfMOD.github.io/ProfMODTest/annotations/susan-howe-thorow-part-i-canvas-1-place-name.json",
+            "label": {
+              "none": ["Place Name"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/paintings",
