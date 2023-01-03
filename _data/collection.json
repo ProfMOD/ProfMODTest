@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Classroom Test" ] },
+    "summary": { "en": [ "Mike trying things out to see about incorporating this into his poetry course. " ] },
+    "items": [
+    ]
+}
