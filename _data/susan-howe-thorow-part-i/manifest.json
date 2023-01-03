@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Susan Howe Thorow Part I" ] },
+    "items": [
+      {
+        "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 197.0,
+        "items": [
+          {
+            "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/authors/Howe/RRP/Howe-Susan_02_Thorow-1_Radio-Reading-Project_1998.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 197.0
+                },
+                "target": "https://ProfMOD.github.io/ProfMODTest/susan-howe-thorow-part-i/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
